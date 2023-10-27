@@ -1,0 +1,1 @@
+# spring-simple-app-annotation-configuration
